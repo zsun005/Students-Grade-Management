@@ -1,0 +1,1 @@
+StudentScoreDB数据库的密码为：score

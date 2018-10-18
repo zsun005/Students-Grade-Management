@@ -1,0 +1,123 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: StudentScore - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/StudentScore.res" /d "_DEBUG" /d "_AFXDLL" "F:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\StudentScore.rc"" 
+Creating temporary file "C:\DOCUME~1\钻石老猪\LOCALS~1\Temp\RSP1A.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/StudentScore.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"F:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\AddClassDialog.cpp"
+"F:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\AddStudentDialog.cpp"
+"F:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\AddSubjectDialog.cpp"
+"F:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\ADODB.cpp"
+"F:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\BMDialog.cpp"
+"F:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\ChildFrm.cpp"
+"F:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\Exam.cpp"
+"F:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\ExamDoc.cpp"
+"F:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\ExamStudentDoc.cpp"
+"F:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\ExamStudentView.cpp"
+"F:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\ExamSubjectDoc.cpp"
+"F:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\ExamSubjectView.cpp"
+"F:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\ExamView.cpp"
+"F:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\Loginfrm.cpp"
+"F:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\MainFrm.cpp"
+"F:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\SelExamNoDialog.cpp"
+"F:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\StudentScore.cpp"
+"F:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\StudentScoreDoc.cpp"
+"F:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\StudentScoreView.cpp"
+"F:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\User.cpp"
+]
+Creating command line "cl.exe @"C:\DOCUME~1\钻石老猪\LOCALS~1\Temp\RSP1A.tmp"" 
+Creating temporary file "C:\DOCUME~1\钻石老猪\LOCALS~1\Temp\RSP1B.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/StudentScore.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"F:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\StdAfx.cpp"
+]
+Creating command line "cl.exe @"C:\DOCUME~1\钻石老猪\LOCALS~1\Temp\RSP1B.tmp"" 
+Creating temporary file "C:\DOCUME~1\钻石老猪\LOCALS~1\Temp\RSP1C.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/StudentScore.pdb" /debug /machine:I386 /out:"Debug/StudentScore.exe" /pdbtype:sept 
+".\Debug\AddClassDialog.obj"
+".\Debug\AddStudentDialog.obj"
+".\Debug\AddSubjectDialog.obj"
+".\Debug\ADODB.obj"
+".\Debug\BMDialog.obj"
+".\Debug\ChildFrm.obj"
+".\Debug\Exam.obj"
+".\Debug\ExamDoc.obj"
+".\Debug\ExamStudentDoc.obj"
+".\Debug\ExamStudentView.obj"
+".\Debug\ExamSubjectDoc.obj"
+".\Debug\ExamSubjectView.obj"
+".\Debug\ExamView.obj"
+".\Debug\Loginfrm.obj"
+".\Debug\MainFrm.obj"
+".\Debug\SelExamNoDialog.obj"
+".\Debug\StdAfx.obj"
+".\Debug\StudentScore.obj"
+".\Debug\StudentScoreDoc.obj"
+".\Debug\StudentScoreView.obj"
+".\Debug\User.obj"
+".\Debug\StudentScore.res"
+]
+Creating command line "link.exe @"C:\DOCUME~1\钻石老猪\LOCALS~1\Temp\RSP1C.tmp""
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+c:\program files\microsoft visual studio\vc98\mfc\include\afxv_w32.h(119) : warning C4005: '_WIN32_WINDOWS' : macro redefinition
+        f:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\stdafx.h(22) : see previous definition of '_WIN32_WINDOWS'
+Compiling...
+AddClassDialog.cpp
+f:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\debug\msado15.tlh(407) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+AddStudentDialog.cpp
+f:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\debug\msado15.tlh(407) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+AddSubjectDialog.cpp
+f:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\debug\msado15.tlh(407) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+ADODB.cpp
+f:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\debug\msado15.tlh(407) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+BMDialog.cpp
+f:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\debug\msado15.tlh(407) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+ChildFrm.cpp
+Exam.cpp
+f:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\debug\msado15.tlh(407) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+ExamDoc.cpp
+f:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\debug\msado15.tlh(407) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+ExamStudentDoc.cpp
+f:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\debug\msado15.tlh(407) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+ExamStudentView.cpp
+f:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\debug\msado15.tlh(407) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+ExamSubjectDoc.cpp
+f:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\debug\msado15.tlh(407) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+ExamSubjectView.cpp
+f:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\debug\msado15.tlh(407) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+ExamView.cpp
+f:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\debug\msado15.tlh(407) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+Loginfrm.cpp
+f:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\debug\msado15.tlh(407) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+MainFrm.cpp
+f:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\debug\msado15.tlh(407) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+SelExamNoDialog.cpp
+f:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\debug\msado15.tlh(407) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+StudentScore.cpp
+f:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\debug\msado15.tlh(407) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+StudentScoreDoc.cpp
+f:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\debug\msado15.tlh(407) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+StudentScoreView.cpp
+f:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\debug\msado15.tlh(407) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+User.cpp
+f:\四维科技\未完图书\开发技术及实用案例精选\vc数据库高级编程实例\2004-11-10\code\final code\appendix\考试管理系统\debug\msado15.tlh(407) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+StudentScore.exe - 0 error(s), 20 warning(s)
+</pre>
+</body>
+</html>
